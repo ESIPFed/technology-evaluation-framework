@@ -8,4 +8,6 @@ More information can be found on the [Products & Services](http://wiki.esipfed.o
 
 ###Contents
 
+(To download the spreadsheet only, go to the TRL Evaluation Structure.zip page and click the "Raw" button in the upper right. Alternately, download the entire repository as a ZIP file.)
+
 **TRL Evaluation Structure.xlsx:** the current evaluation spreadsheet
