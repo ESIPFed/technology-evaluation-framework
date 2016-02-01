@@ -1,6 +1,6 @@
 #Technology Evaluation Framework
 
-<a href="http://testbed.esipfed.org">![](http://52.11.105.140/testbed.svg?display=logo)</a>  <a href="http://wiki.esipfed.org/index.php/Products_and_Services">![](http://52.11.105.140/products.svg?display=logo)</a>
+<a href="http://testbed.esipfed.org">![](http://badge.esipfed.org/testbed.svg?display=logo)</a>  <a href="http://wiki.esipfed.org/index.php/Products_and_Services">![](http://badge.esipfed.org/products.svg?display=logo)</a>
 
 The Technology Evaluation Framework (TEF) was developed by John Graybeal (@graybeal), as an [ESIP Testbed](http://testbed.esipfed.org/) project, to support the evaluation of NASA AIST software or technology products. The evaluation is based on NASA's [Technology Readiness Levels](https://www.nasa.gov/directorates/heo/scan/engineering/technology/txt_accordion1.html).
 
