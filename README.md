@@ -10,4 +10,16 @@ More information can be found on the [Products & Services](http://wiki.esipfed.o
 
 (To download the spreadsheet only, go to the TRL Evaluation Structure.zip page and click the "Raw" button in the upper right. Alternately, download the entire repository as a ZIP file.)
 
-**TRL Evaluation Structure.xlsx:** the current evaluation spreadsheet [download](https://github.com/ESIPFed/technology-evaluation-framework/raw/master/TRL%20Evaluation%20Structure.xslx)
+**TRL Evaluation Structure.xlsx:** 
+
+This is the delivered evaluation spreadsheet (to download, go to the link below and click the "Raw" button in the upper right, or download the entire repository as a ZIP file). 
+[download](https://github.com/ESIPFed/technology-evaluation-framework/raw/master/TRL%20Evaluation%20Structure.xslx)
+
+The URLs at which the Google doc can be viewed are:
+* https://docs.google.com/spreadsheets/d/1trb-1Lszz_TXzE0xWClQMIeNjmpvmVtwEbl7GNV-TbM/edit#gid=2073129365 
+* http://bit.ly/esip-trl-eval-structure 
+
+**Development Branch**
+
+Some work was done on a development version of the spreadsheet. That can be found at 
+* https://docs.google.com/spreadsheets/d/1LqK4iRT_tS-eAA2w-Fx2_hiS78ybqsiBqE78GGFpsa8/edit#gid=130961187
